@@ -641,7 +641,7 @@
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://about-tanvir.vercel.app" target="_blank">
+<a href="https://about-tanvir-hazel.vercel.app" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="Tanvir" style="margin-bottom: 5px;" />
 </a>
 </div>
